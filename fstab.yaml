@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: https://ecomerocom.sharepoint.com/:f:/s/AdobeStorefrontDemo/Ek240A7rpWdLn63sS2wKD4kBe7oHXu9utGLeGjy6GjTCpA?e=l8abVk
+    url: https://ecomerocom.sharepoint.com/sites/AdobeStorefrontDemo/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FAdobeStorefrontDemo%2FShared%20Documents%2Fstore1
     type: markup
 
 folders:
